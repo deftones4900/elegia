@@ -15,6 +15,6 @@ Tomb of Liegia
 
 http://www.google.lv
 
-[saite](www.draugiem.lv)
+[saite](http://www.draugiem.lv)
 
 [google](http://www.google.lv)
