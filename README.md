@@ -2,6 +2,7 @@
 Tomb of Liegia
 
 ==============
+```
 <p>paragrafs</p>
 ```
 
@@ -9,8 +10,8 @@ Tomb of Liegia
 2. is
 3. a
 
-*bullet
-*point
+*Bullet
+*Point
 
 http://www.google.lv
 
